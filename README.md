@@ -17,4 +17,12 @@ Le but de cette exercice est de réviser le HTML, CSS, Git et Github.
 L'idée est que vous comprenez bien la différence entre *forker* et *cloner* puis la différence entre *origin* et  *upstream*.
 
 ### Partie 2
+Voici le lien de la maquette figma : https://www.figma.com/design/caPLIR36s32Kk7Tbx66Suq/PrimePrompts?node-id=2-2&t=PGYbKoKG7g0gmNsf-0
 
+1. Intégrez le zoning en HTML du **format desktop** puis **enregistrez les modifications** dans **votre dépot distant** ainsi que dans **mon dépot distant**.
+2. Intégrez le zoning en CSS du **format desktop** puis **enregistrez les modifications** dans **votre dépot distant** ainsi que dans **mon dépot distant**.
+3. Signalez moi que vous êtes prêt pour la suite.
+4. Intégrer la landing page avec les vrais détails de la maquette (Ajouter le vrai texte, les images...)
+5. Envoyez les **enregistrez les modifications** dans **votre dépot distant** ainsi que dans **mon dépot distant**.
+6. Ajoutez le responsive dans votre code. (Pas d'intéraction sur le menu hamburger au format mobile)
+7. **Enregistrez les modifications** dans **votre dépot distant** ainsi que dans **mon dépot distant**
