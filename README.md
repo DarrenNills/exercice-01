@@ -26,3 +26,44 @@ Voici le lien de la maquette figma : https://www.figma.com/design/caPLIR36s32Kk7
 5. Envoyez les **enregistrez les modifications** dans **votre dépot distant** ainsi que dans **mon dépot distant**.
 6. Ajoutez le responsive dans votre code. (Pas d'intéraction sur le menu hamburger au format mobile)
 7. **Enregistrez les modifications** dans **votre dépot distant** ainsi que dans **mon dépot distant**
+
+### Partie 3
+Dans le dossier assets se trouve toutes les images et icones pour votre site web.
+
+#### Charte graphique
+La police est Roboto.
+
+- Titre du logo
+font size: 22px
+font weight: 500
+
+- Boutton Connexion
+font weight: 400
+font size: 18px
+
+- CTA Noir et CTA Bleu
+font weight: 400
+font size: 18px
+
+- Titre (section)
+font weight : 700
+font size: 42px
+line height: 49.22px
+
+- Paragraphe (section)
+font weight : 400
+font size: 24px
+line height: 28px
+
+- Titre (card)
+font weight: 500
+font size: 22px
+
+- Paragraphe (card)
+font weight: 400
+font size: 14px
+line height: 16px
+
+- Liens (footer)
+font weight: 400
+font size: 18px
